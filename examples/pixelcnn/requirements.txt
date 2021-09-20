@@ -1,0 +1,5 @@
+jax
+flax
+tensorflow.io
+pillow
+wandb
