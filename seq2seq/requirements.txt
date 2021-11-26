@@ -1,0 +1,3 @@
+flax
+clu>=0.0.3
+wandb

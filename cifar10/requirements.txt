@@ -1,0 +1,3 @@
+flax
+tensorflow_datasets<4
+wandb
